@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WareHouseFranck" width="246" height="293" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group anchorOffsetX="0" right="0" bottom="0" left="0" top="0" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="warehousebgk_png" left="0" verticalCenter="0" top="0" bottom="0" horizontalCenter="0" right="0" locked="true"/>
+		<e:Image id="content" source="robot1_png" anchorOffsetX="0" width="131" anchorOffsetY="0" height="158.38" verticalCenter="-14.5" horizontalCenter="0.5"/>
+		<e:Label id="count" text="" x="171.5" y="15.5" size="32" textAlign="center" anchorOffsetX="0" width="63"/>
+		<e:Rect width="209" height="54" fillColor="0xfff2a8" ellipseWidth="54" ellipseHeight="54" y="229" x="19"/>
+		<e:Label id="state" text="" x="58" y="239" fontFamily="Microsoft YaHei" textColor="0x7a2e00" size="34" textAlign="center" anchorOffsetX="0" width="131"/>
+	</e:Group>
+</e:Skin>

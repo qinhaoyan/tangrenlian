@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Smelter" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect top="0" bottom="0" left="0" right="0" fillAlpha="0.5" strokeAlpha="0.5" strokeColor="0x000000" locked="true"/>
+	<e:Group id="main" anchorOffsetX="960" anchorOffsetY="540" scaleX="1" scaleY="1" y="540" height="1080" width="1920" x="960">
+		<e:Image source="smelterbg_png" x="22.5" y="29.5"/>
+		<e:Image id="compoundicon" source="compoundicon_0_png" x="608.79" y="839.06"/>
+		<e:Image id="dismentleicon" source="dismentlecion_0_png" x="1024.21" y="839.06"/>
+		<e:Group id="compound" width="1203.04" height="572.72" x="961.5" y="471.69" anchorOffsetX="601.51" anchorOffsetY="296.24" alpha="1">
+			<e:Image source="compoundbg_png" x="0" y="-48" anchorOffsetY="0" height="620"/>
+			<e:Image id="compoundsure" source="smeltersure_0_png" x="485" y="516.24"/>
+			<e:Button id="compoundlast" label="" x="-33" y="220" scaleX="1" scaleY="1">
+				<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="smelterlast_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Button id="compoundnext" label="" x="1170.04" y="220">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="smelternext_png"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+			</e:Button>
+			<e:Scroller width="1062" height="476" x="74" y="20" anchorOffsetX="0" anchorOffsetY="0">
+				<e:Group id="compoundgroup" anchorOffsetY="0" height="466.45" x="0.07" y="20.01"/>
+			</e:Scroller>
+		</e:Group>
+		<e:Group id="dismentle" width="1203.04" height="484.84" x="959.99" y="491.15" anchorOffsetX="601.51" anchorOffsetY="250.78">
+			<e:Image x="0" y="31.28" source="dismentlebg_png"/>
+			<e:Image id="dismentlesure" source="smeltersure_0_png" x="485" y="419.52"/>
+			<e:Button id="dismentlelast" label="" x="-33" y="209.28">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="smelterlast_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+			</e:Button>
+			<e:Button id="dismentlenext" label="" x="1170.04" y="209.28">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="smelternext_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+			</e:Button>
+			<e:Scroller width="1072" height="288" x="62" y="124" anchorOffsetX="0" anchorOffsetY="0">
+				<e:Group id="dismentlegroup" anchorOffsetX="0" width="1182" anchorOffsetY="0" height="508"/>
+			</e:Scroller>
+		</e:Group>
+		<e:Image id="close" source="close_png" x="1780" y="8"/>
+	</e:Group>
+</e:Skin>

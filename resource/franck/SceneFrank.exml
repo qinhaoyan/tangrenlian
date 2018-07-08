@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SceneFrank" width="613" height="520" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group anchorOffsetX="0" left="0" right="1" top="0" bottom="0" height="400">
+		<e:Group width="613" height="369" x="0" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Rect width="555" height="312" x="29" y="29" anchorOffsetX="0" anchorOffsetY="0"/>
+			<e:Image id="isscene" source="scened_png" left="0" right="0" top="0" bottom="0"/>
+			<e:Image id="scene" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" verticalCenter="0" horizontalCenter="0" source="scene2_png" alpha="1"/>
+		</e:Group>
+	</e:Group>
+	<e:Group id="attribute" height="153" y="366" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0">
+		<e:Label id="scenematerial" text="" x="41" y="0" fontFamily="SimHei" size="23" anchorOffsetX="0" width="524" scaleX="1" scaleY="1"/>
+		<e:Label text="机器人数量：" x="41" y="39.670000000000016" fontFamily="SimHei" size="23" anchorOffsetX="0" width="524" scaleX="1" scaleY="1"/>
+		<e:Label id="scenerobotnumber" text="" x="179.5" y="39.670000000000016" fontFamily="SimHei" size="23" anchorOffsetX="0" width="385.5" scaleX="1" scaleY="1"/>
+		<e:Label text="矿产储量：" x="41" y="80.32999999999998" fontFamily="SimHei" size="23" anchorOffsetX="0" width="524" scaleX="1" scaleY="1"/>
+		<e:Label id="scenemine" text="" x="156" y="80.32999999999998" fontFamily="SimHei" size="23" anchorOffsetX="0" width="412" scaleX="1" scaleY="1"/>
+		<e:Label text="难度系数：" x="41" y="120" fontFamily="SimHei" size="23" anchorOffsetX="0" width="124" scaleX="1" scaleY="1"/>
+		<e:Group id="scenestar" width="400.5" height="32" x="155.5" y="116.5" anchorOffsetY="0" anchorOffsetX="0" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group top="0" bottom="0" left="0" right="0"/>
+</e:Skin>

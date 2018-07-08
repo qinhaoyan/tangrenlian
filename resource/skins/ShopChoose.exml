@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopChoose" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect top="0" bottom="0" left="0" right="0" fillAlpha="0.5" strokeColor="0x000000" strokeAlpha="0.5" locked="true"/>
+	<e:Group id="main" anchorOffsetX="960" anchorOffsetY="540" scaleX="1" scaleY="1" width="1920" height="1080" x="960" y="540">
+		<e:Image source="shopchoosebg_png" horizontalCenter="0" verticalCenter="0" x="587" y="106.00000000000001" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="close" source="close_png" x="1289.33" y="78.66" width="74" height="74" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="sure" source="smeltersure_1_png" y="842.25" horizontalCenter="0"/>
+		<e:Scroller width="686" height="657.58" y="158" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0">
+			<e:Group id="content" x="3.03" y="12.12" anchorOffsetX="0" width="1057.57" anchorOffsetY="0" height="590.91">
+			</e:Group>
+		</e:Scroller>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Robot" width="106" height="400" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="robot" source="robot_png" y="125" horizontalCenter="0"/>
+	<e:Image id="shadow" source="shadow_png" y="336" horizontalCenter="0"/>
+</e:Skin>

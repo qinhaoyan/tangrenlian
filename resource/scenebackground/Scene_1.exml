@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene_1" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">	
+	<w:Declarations>
+		<tween:TweenGroup id="blue">
+		</tween:TweenGroup>
+	</w:Declarations>
+	<e:Group id="scene4" width="5400" height="700" x="0">
+		<e:Image source="scene1_4_png" y="0" x="0" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group id="scene40" width="5400" height="700" x="5400" y="0">
+		<e:Image source="scene1_4_png" y="0" x="0" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group id="metoer" top="0" bottom="0" left="0" right="0"/>
+	<e:Image id="fish3" source="scene1_fish3_png" x="1754.79" y="109.45000000000002" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="fish30" source="scene1_fish3_png" x="7153.79" y="109.45000000000002" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="scene3" source="scene1_3_png" x="16" y="128" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="scene30" source="scene1_3_png" x="5416" y="128" scaleX="1" scaleY="1" locked="true"/>
+	<e:Group id="scene2group" y="0" x="0" scaleX="1" scaleY="1" locked="true">
+		<e:Image id="scene2" source="scene1_2_png" left="0" bottom="2" x="0" y="549" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="blue1" source="scene1_bluefire1_png" x="2144.5" y="774" scaleX="1" scaleY="1"/>
+		<e:Image id="blue2" source="scene1_bluefire2_png" x="3244" y="796" scaleX="1" scaleY="1"/>
+		<e:Image id="blue3" source="scene1_bluefire3_png" x="5072" y="720" scaleX="1" scaleY="1"/>
+		<e:Image id="light1" source="scene1_firelight1_png" x="454.3" y="582.06" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="light2" source="scene1_firelight2_png" x="4085.04" y="584.7" scaleX="1" scaleY="1"/>
+		<e:Image source="scene1_fire2_png" x="4330.12" y="827.27" scaleX="1" scaleY="1"/>
+		<e:Image source="scene1_fire1_png" x="718.45" y="848.58" scaleX="1" scaleY="1"/>
+		<e:Group id="fire1" width="27" height="31.21" x="780.64" y="839.43" scaleX="1" scaleY="1" anchorOffsetY="13" anchorOffsetX="30"/>
+		<e:Group id="fire2" width="36" height="38.21" x="4396" y="800.43" scaleX="1" scaleY="1" anchorOffsetY="14" anchorOffsetX="20"/>
+		<e:Group id="fire5" width="132" height="112" x="0" y="858" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group id="scene2group0" y="0" x="5400" scaleX="1" scaleY="1" locked="true">
+		<e:Image id="scene6" source="scene1_2_png" left="0" bottom="0" x="0" y="549" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="blue0" source="scene1_bluefire1_png" x="2144.5" y="774" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="blue4" source="scene1_bluefire2_png" x="3244" y="796" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="blue5" source="scene1_bluefire3_png" x="5072" y="720" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="light0" source="scene1_firelight1_png" x="454.3" y="582.06" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image id="light3" source="scene1_firelight2_png" x="4085.04" y="584.7" scaleX="1" scaleY="1" locked="true"/>
+		<e:Image source="scene1_fire2_png" x="4330.12" y="827.27" scaleX="1" scaleY="1"/>
+		<e:Image source="scene1_fire1_png" x="718.45" y="848.58" scaleX="1" scaleY="1"/>
+		<e:Group id="fire4" width="10" height="10" x="4381.12" y="827.27"/>
+		<e:Group id="fire3" width="10" height="10" x="752" y="840"/>
+		<e:Group id="fire6" width="200" height="200" x="0" y="850" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Image id="fish1" source="scene1_fish1_png" x="228.37" y="170" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="fish10" source="scene1_fish1_png" x="5628.37" y="170" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="fish2" source="scene1_fish2_png" x="662.33" y="136.71" scaleX="1" scaleY="1" locked="true"/>
+	<e:Image id="fish20" source="scene1_fish2_png" x="6263.33" y="136.71" scaleX="1" scaleY="1" locked="true"/>
+	<e:Group id="robot" width="200" height="200" x="551" y="630" anchorOffsetX="100" anchorOffsetY="3"/>
+	<e:Image id="scene1" source="scene1_1_png" x="228" bottom="0" y="881" scaleX="1" scaleY="1"/>
+	<e:Image id="scene10" source="scene1_1_png" x="5628" bottom="0" y="881" scaleX="1" scaleY="1" locked="true"/>
+	
+</e:Skin>

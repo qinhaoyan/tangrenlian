@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WareHouse" width="1920" height="1080" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect id="rect" left="0" right="0" top="0" bottom="540" fillAlpha="0.5" strokeAlpha="0.5" strokeColor="0x000000" anchorOffsetY="0" height="504" locked="true"/>
+	<e:Rect left="0" right="0" top="540" bottom="0" fillAlpha="0.5" strokeAlpha="0.5" strokeColor="0x000000" anchorOffsetY="0" height="504" locked="true"/>
+	<e:Group id="main" height="576" anchorOffsetY="0" width="1920" x="0" y="1080">
+		<e:Image id="bg" source="warehousebg_png" x="0" y="0" locked="true"/>
+		<e:Image id="success" source="successicon_0_png" x="355.87" y="51"/>
+		<e:Image id="illustrated" source="illustratedicon_0_png" x="352.64" y="51" visible="false"/>
+		<e:Image id="mine" source="mineicon_0_png" x="47.45" y="51"/>
+		<e:Scroller width="1776" height="293" x="70" y="215.94" anchorOffsetX="0">
+			<e:Group id="row0" y="9.09" anchorOffsetX="0" width="1951.52"/>
+		</e:Scroller>
+		<e:Scroller width="1776" height="293" x="70" y="215.94" anchorOffsetX="0">
+			<e:Group id="row1" y="9.09" anchorOffsetX="0" width="1951.52"/>
+		</e:Scroller>
+		<e:Scroller width="1776" height="293" x="70" y="215.94" anchorOffsetX="0">
+			<e:Group id="row2" y="9.09" anchorOffsetX="0" width="1951.52"/>
+		</e:Scroller>
+	</e:Group>
+</e:Skin>

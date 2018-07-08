@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Rank" width="1920" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="1080">
+	<w:Config id="163d82f1f28"/>
+	<e:Rect top="0" bottom="0" left="0" right="0" fillAlpha="0.5" strokeAlpha="0.5" strokeColor="0x000000" locked="true"/>
+	<e:Group id="main" anchorOffsetX="960" anchorOffsetY="540" scaleX="0" scaleY="0" x="960" y="540">
+		<e:Image source="rankbg_png" x="0" y="36.36" locked="true"/>
+		<e:Group width="233.33" height="649.36" x="54" y="256" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Image id="rankfortune" x="23" y="28" scaleX="1" scaleY="1" source="rankfortune_0_png"/>
+			<e:Image id="rankconsume" source="rankconsume_0_png" x="23" y="240" scaleX="1" scaleY="1"/>
+			<e:Image id="ranksearch" source="ranksearch_0_png" x="23" y="444" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group width="1539.39" height="100" x="327" y="258" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Label text="名次" x="41.67" y="25" size="50" fontFamily="SimHei" bold="true" textColor="0x843e00" scaleX="1" scaleY="1"/>
+			<e:Label text="玩家名" x="359.82" y="25" size="50" fontFamily="SimHei" bold="true" textColor="0x843e00" scaleX="1" scaleY="1"/>
+			<e:Label id="ranktype" text="拥有积分数量" x="771.21" y="25" size="50" fontFamily="SimHei" bold="true" textColor="0x843E00" scaleX="1" scaleY="1"/>
+			<e:Label text="奖励" x="1290.6" y="25" size="50" fontFamily="SimHei" bold="true" textColor="0x843E00" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Scroller width="1536.36" height="548.48" x="330.03" y="358" anchorOffsetX="0" anchorOffsetY="0">
+			<e:Group id="rankrowscroller"/>
+		</e:Scroller>
+		<e:Image id="close" source="close_png" x="1822" y="128"/>
+	</e:Group>
+</e:Skin>

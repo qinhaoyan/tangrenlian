@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankFranck" width="1535" height="128" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group top="0" bottom="0" left="0" right="0">
+		<e:Image source="rowbg_png" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image id="ranknumbericon" source="cup1_png" x="53.24000000000001" y="33" scaleX="1" scaleY="1"/>
+		<e:Label id="ranknumber" text="1111" x="24.220000000000002" y="46.00000000000001" size="36" textColor="0x7c3800" textAlign="center" anchorOffsetX="0" width="125.55" scaleX="1" scaleY="1"/>
+		<e:Label id="username" text="安迪安迪安迪" x="255.94" y="46.00000000000001" fontFamily="SimHei" textColor="0x7c3800" size="36" anchorOffsetX="0" width="344.79" textAlign="center" scaleX="1" scaleY="1"/>
+		<e:Label id="scole" text="1000" x="827.6100000000001" y="46.00000000000001" size="36" textColor="0x7c3800" anchorOffsetX="0" width="182.51" textAlign="center" scaleX="1" scaleY="1"/>
+		<e:Label id="awardnumber" text="+1" x="1200.42" y="46.00000000000001" textColor="0x7c3800" size="36" anchorOffsetX="0" width="131.39" textAlign="right" scaleX="1" scaleY="1"/>
+		<e:Image id="awardtype" source="rankrobot_png" x="1345.9" y="39" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

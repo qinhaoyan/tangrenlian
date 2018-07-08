@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopChooseFranck" width="686" height="153" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillColor="0xffca7e" strokeColor="0xffca7e" ellipseWidth="26" ellipseHeight="26" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="content" width="100" height="100" x="35" anchorOffsetX="0" anchorOffsetY="0" y="27"/>
+	<e:Rect width="291" height="55" x="355" fillColor="0xffffff" strokeColor="0xff8e35" strokeWeight="2" y="49" anchorOffsetX="0"/>
+	<e:Image source="rankcon_png" x="373" y="58" width="36" height="38"/>
+	<e:Label text=":" x="419" y="59" textColor="0xff8e35" size="36"/>
+	<e:EditableText id="con" width="178" height="36" text="0" x="460" y="59" anchorOffsetX="0" anchorOffsetY="0" textAlign="center" size="36" textColor="0xff8e35"/>
+	<e:Rect width="109" height="55" x="494" fillColor="0xffffff" strokeColor="0xff8e35" strokeWeight="2" y="49" visible="false"/>
+	<e:Label id="numb" text="100" x="505" y="59" size="36" textAlign="center" textColor="0xff8e35" anchorOffsetX="0" width="90.5" visible="false"/>
+	<e:Group id="sub" width="59" height="53" x="437" y="50" anchorOffsetX="0" anchorOffsetY="0" visible="false">
+		<e:Rect width="61" height="55" x="-1" fillColor="0xffffff" strokeColor="0xff8e35" strokeWeight="2" y="-1" scaleX="1" scaleY="1"/>
+		<e:Label text="-" y="6" size="36" textColor="0xff8e35" fontFamily="Microsoft YaHei" horizontalCenter="0.5"/>
+	</e:Group>
+	<e:Group id="add" width="59" height="53" x="601.5" y="50" anchorOffsetX="0" anchorOffsetY="0" visible="false">
+		<e:Rect width="61" height="55" x="-1" fillColor="0xFFFFFF" strokeColor="0xFF8E35" strokeWeight="2" y="-1" scaleX="1" scaleY="1"/>
+		<e:Label text="+" y="6" size="36" textColor="0xFF8E35" fontFamily="Microsoft YaHei" horizontalCenter="0.5"/>
+	</e:Group>
+</e:Skin>

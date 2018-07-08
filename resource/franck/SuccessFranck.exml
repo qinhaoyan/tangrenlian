@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SuccessFranck" width="246" height="293" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group left="0" right="0" top="0" bottom="0">
+		<e:Image source="warehousebgk1_png" left="0" verticalCenter="0"/>
+		<e:Image source="successcon_png" x="11" y="11"/>
+		<e:Label id="con" text="200000" x="56.83" y="27.5" size="19" textColor="0x1f1f1f" anchorOffsetX="0" width="64.25" textAlign="center"/>
+		<e:Image id="content" source="robot1_png" y="73" width="99" height="118" horizontalCenter="0"/>
+		<e:Image source="successloadingbg_png" y="199" x="26" visible="false"/>
+		<e:Image id="loading" source="successloading_png" x="26" y="199" visible="false"/>
+		<e:Image id="loadingmask" source="successloadingalll_png" y="199" x="26" scale9Grid="15,3,166,19" visible="false"/>
+		<e:Label id="successname" text="小有权势" y="246.5" size="24" fontFamily="Microsoft YaHei" horizontalCenter="0"/>
+		<e:Label id="own" text="199/1000" x="58.67" y="202.5" size="18" textAlign="center" anchorOffsetX="0" width="128.67" visible="false"/>
+	</e:Group>
+	<e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.5"/>
+	<e:Image source="sockt_png" anchorOffsetX="0" width="60" anchorOffsetY="0" height="78" verticalCenter="0" horizontalCenter="0"/>
+</e:Skin>

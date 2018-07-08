@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NewFile" width="288" height="225" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="shopbgk_png" x="0" y="24" scaleX="1" scaleY="1"/>
+	<e:Image id="choose" source="nochoose_png" right="0" top="0"/>
+	<e:Image id="content" source="robot1_png" anchorOffsetX="0" width="180" anchorOffsetY="0" height="148" x="43" y="51"/>
+</e:Skin>

@@ -1,0 +1,594 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,shop_png,smelter_png,success_png,warehouse_png,firstpage_start_png,illustrated_png,rank_png,robot_png,shadow_png,setting_png,back_png,last_png,mute_png,next_png,parse_png,franckbg_png,scene1_png,scene2_png,search_png,goldcon_png,homebg_jpg,successicon_0_png,successicon_1_png,warehousebg_png,illustratedicon_0_png,illustratedicon_1_png,mineicon_0_png,mineicon_1_png,warehousebg1_png,shopicon_1_png,shopicon_0_png,shopbgk_png,shopbg_png,sale_png,nochoose_png,choosed_png,buy_png,shopmineicon_1_png,shopmineicon_0_png,shopnext_png,smelternext_png,smelterlast_png,smeltersure_1_png,smeltersure_0_png,dismentlebg_png,compoundbg_png,dismentlecion_0_png,compoundicon_1_png,compoundicon_0_png,dismentlecion_1_png,smelterbg_png,cup3_png,cup2_png,cup1_png,rowbg_png,rankcon_png,rankbg_png,ranksearch_0_png,rankconsume_0_png,rankfortune_0_png,ranksearch_1_png,rankconsume_1_png,rankfortune_1_png,rankrobot_png,star_png,scened_png,warehousebgk1_png,warehousebgk_png,robot1_png,successloadingbg_png,successloading_png,successcon_png,successloadingalll_png,night_png,scene1_1_png,scene1_2_png,scene1_3_png,scene1_4_png,scene1_bluefire1_png,scene1_bluefire2_png,scene1_bluefire3_png,scene1_fire1_png,scene1_fire2_png,scene1_firestar_png,scene1_firelight2_png,scene1_firelight1_png,scene1_fish1_png,scene1_fish2_png,scene1_fish3_png,scene1_bluefireshadow_png,scene1_firestar_json,scene1_firestar2_json,scene1_meteor_png,scene1_meteor_json,shopcon_png,robot2_png,robot3_png,robot5_png,robot6_png,robot7_png,robot8_png,robot9_png,robot4_png,close_png,choose_0_png,choose_1_png,shopchoosebg_png,冰魄玉_png,钢木_png,庚金_png,scene3_png,scene22_png,sockt_png,back2_png",
+			"name": "preload"
+		},
+		{
+			"keys": "bg_jpg",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/firstpage/shop.png",
+			"type": "image",
+			"name": "shop_png"
+		},
+		{
+			"url": "assets/firstpage/smelter.png",
+			"type": "image",
+			"name": "smelter_png"
+		},
+		{
+			"url": "assets/firstpage/success.png",
+			"type": "image",
+			"name": "success_png"
+		},
+		{
+			"url": "assets/firstpage/warehouse.png",
+			"type": "image",
+			"name": "warehouse_png"
+		},
+		{
+			"url": "assets/firstpage/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/firstpage/firstpage_start.png",
+			"type": "image",
+			"name": "firstpage_start_png"
+		},
+		{
+			"url": "assets/firstpage/illustrated.png",
+			"type": "image",
+			"name": "illustrated_png"
+		},
+		{
+			"url": "assets/firstpage/rank.png",
+			"type": "image",
+			"name": "rank_png"
+		},
+		{
+			"url": "assets/playpage/robot.png",
+			"type": "image",
+			"name": "robot_png"
+		},
+		{
+			"url": "assets/playpage/shadow.png",
+			"type": "image",
+			"name": "shadow_png"
+		},
+		{
+			"url": "assets/playpage/setting.png",
+			"type": "image",
+			"name": "setting_png"
+		},
+		{
+			"url": "assets/playpage/back.png",
+			"type": "image",
+			"name": "back_png"
+		},
+		{
+			"url": "assets/playpage/last.png",
+			"type": "image",
+			"name": "last_png"
+		},
+		{
+			"url": "assets/playpage/mute.png",
+			"type": "image",
+			"name": "mute_png"
+		},
+		{
+			"url": "assets/playpage/next.png",
+			"type": "image",
+			"name": "next_png"
+		},
+		{
+			"url": "assets/playpage/parse.png",
+			"type": "image",
+			"name": "parse_png"
+		},
+		{
+			"url": "assets/playpage/franckbg.png",
+			"type": "image",
+			"name": "franckbg_png"
+		},
+		{
+			"url": "assets/playpage/scene1.png",
+			"type": "image",
+			"name": "scene1_png"
+		},
+		{
+			"url": "assets/playpage/scene2.png",
+			"type": "image",
+			"name": "scene2_png"
+		},
+		{
+			"url": "assets/home/search.png",
+			"type": "image",
+			"name": "search_png"
+		},
+		{
+			"url": "assets/home/goldcon.png",
+			"type": "image",
+			"name": "goldcon_png"
+		},
+		{
+			"url": "assets/home/homebg.jpg",
+			"type": "image",
+			"name": "homebg_jpg"
+		},
+		{
+			"url": "assets/warehouse/successicon_0.png",
+			"type": "image",
+			"name": "successicon_0_png"
+		},
+		{
+			"url": "assets/warehouse/successicon_1.png",
+			"type": "image",
+			"name": "successicon_1_png"
+		},
+		{
+			"url": "assets/warehouse/warehousebg.png",
+			"type": "image",
+			"name": "warehousebg_png"
+		},
+		{
+			"url": "assets/warehouse/illustratedicon_0.png",
+			"type": "image",
+			"name": "illustratedicon_0_png"
+		},
+		{
+			"url": "assets/warehouse/illustratedicon_1.png",
+			"type": "image",
+			"name": "illustratedicon_1_png"
+		},
+		{
+			"url": "assets/warehouse/mineicon_0.png",
+			"type": "image",
+			"name": "mineicon_0_png"
+		},
+		{
+			"url": "assets/warehouse/mineicon_1.png",
+			"type": "image",
+			"name": "mineicon_1_png"
+		},
+		{
+			"url": "assets/warehouse/warehousebg1.png",
+			"type": "image",
+			"name": "warehousebg1_png"
+		},
+		{
+			"url": "assets/shop/buy.png",
+			"type": "image",
+			"name": "buy_png"
+		},
+		{
+			"url": "assets/shop/choosed.png",
+			"type": "image",
+			"name": "choosed_png"
+		},
+		{
+			"url": "assets/shop/next.png",
+			"type": "image",
+			"name": "shopnext_png"
+		},
+		{
+			"url": "assets/shop/nochoose.png",
+			"type": "image",
+			"name": "nochoose_png"
+		},
+		{
+			"url": "assets/shop/sale.png",
+			"type": "image",
+			"name": "sale_png"
+		},
+		{
+			"url": "assets/shop/shopbg.png",
+			"type": "image",
+			"name": "shopbg_png"
+		},
+		{
+			"url": "assets/shop/shopbgk.png",
+			"type": "image",
+			"name": "shopbgk_png"
+		},
+		{
+			"url": "assets/shop/shopicon_0.png",
+			"type": "image",
+			"name": "shopicon_0_png"
+		},
+		{
+			"url": "assets/shop/shopicon_1.png",
+			"type": "image",
+			"name": "shopicon_1_png"
+		},
+		{
+			"url": "assets/shop/shopmineicon_0.png",
+			"type": "image",
+			"name": "shopmineicon_0_png"
+		},
+		{
+			"url": "assets/shop/shopmineicon_1.png",
+			"type": "image",
+			"name": "shopmineicon_1_png"
+		},
+		{
+			"url": "assets/smelter/smelternext.png",
+			"type": "image",
+			"name": "smelternext_png"
+		},
+		{
+			"url": "assets/smelter/smelterlast.png",
+			"type": "image",
+			"name": "smelterlast_png"
+		},
+		{
+			"url": "assets/smelter/smeltersure_1.png",
+			"type": "image",
+			"name": "smeltersure_1_png"
+		},
+		{
+			"url": "assets/smelter/smeltersure_0.png",
+			"type": "image",
+			"name": "smeltersure_0_png"
+		},
+		{
+			"url": "assets/smelter/dismentlebg.png",
+			"type": "image",
+			"name": "dismentlebg_png"
+		},
+		{
+			"url": "assets/smelter/compoundbg.png",
+			"type": "image",
+			"name": "compoundbg_png"
+		},
+		{
+			"url": "assets/smelter/dismentlecion_0.png",
+			"type": "image",
+			"name": "dismentlecion_0_png"
+		},
+		{
+			"url": "assets/smelter/compoundicon_1.png",
+			"type": "image",
+			"name": "compoundicon_1_png"
+		},
+		{
+			"url": "assets/smelter/compoundicon_0.png",
+			"type": "image",
+			"name": "compoundicon_0_png"
+		},
+		{
+			"url": "assets/smelter/dismentlecion_1.png",
+			"type": "image",
+			"name": "dismentlecion_1_png"
+		},
+		{
+			"url": "assets/smelter/smelterbg.png",
+			"type": "image",
+			"name": "smelterbg_png"
+		},
+		{
+			"url": "assets/rank/cup3.png",
+			"type": "image",
+			"name": "cup3_png"
+		},
+		{
+			"url": "assets/rank/cup2.png",
+			"type": "image",
+			"name": "cup2_png"
+		},
+		{
+			"url": "assets/rank/cup1.png",
+			"type": "image",
+			"name": "cup1_png"
+		},
+		{
+			"url": "assets/rank/rowbg.png",
+			"type": "image",
+			"name": "rowbg_png"
+		},
+		{
+			"url": "assets/rank/rankcon.png",
+			"type": "image",
+			"name": "rankcon_png"
+		},
+		{
+			"url": "assets/rank/rankbg.png",
+			"type": "image",
+			"name": "rankbg_png"
+		},
+		{
+			"url": "assets/rank/ranksearch_0.png",
+			"type": "image",
+			"name": "ranksearch_0_png"
+		},
+		{
+			"url": "assets/rank/rankconsume_0.png",
+			"type": "image",
+			"name": "rankconsume_0_png"
+		},
+		{
+			"url": "assets/rank/rankfortune_0.png",
+			"type": "image",
+			"name": "rankfortune_0_png"
+		},
+		{
+			"url": "assets/rank/ranksearch_1.png",
+			"type": "image",
+			"name": "ranksearch_1_png"
+		},
+		{
+			"url": "assets/rank/rankconsume_1.png",
+			"type": "image",
+			"name": "rankconsume_1_png"
+		},
+		{
+			"url": "assets/rank/rankfortune_1.png",
+			"type": "image",
+			"name": "rankfortune_1_png"
+		},
+		{
+			"url": "assets/rank/rankrobot.png",
+			"type": "image",
+			"name": "rankrobot_png"
+		},
+		{
+			"url": "assets/playpage/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/playpage/scened.png",
+			"type": "image",
+			"name": "scened_png"
+		},
+		{
+			"url": "assets/warehouse/warehousebgk1.png",
+			"type": "image",
+			"name": "warehousebgk1_png"
+		},
+		{
+			"url": "assets/warehouse/warehousebgk.png",
+			"type": "image",
+			"name": "warehousebgk_png"
+		},
+		{
+			"url": "assets/robots/robot1.png",
+			"type": "image",
+			"name": "robot1_png"
+		},
+		{
+			"url": "assets/warehouse/successloadingbg.png",
+			"type": "image",
+			"name": "successloadingbg_png"
+		},
+		{
+			"url": "assets/warehouse/successloading.png",
+			"type": "image",
+			"name": "successloading_png"
+		},
+		{
+			"url": "assets/warehouse/successcon.png",
+			"type": "image",
+			"name": "successcon_png"
+		},
+		{
+			"url": "assets/warehouse/successloadingalll.png",
+			"type": "image",
+			"name": "successloadingalll_png"
+		},
+		{
+			"url": "assets/scene/scene1/night.png",
+			"type": "image",
+			"name": "night_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_1.png",
+			"type": "image",
+			"name": "scene1_1_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_2.png",
+			"type": "image",
+			"name": "scene1_2_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_3.png",
+			"type": "image",
+			"name": "scene1_3_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_4.png",
+			"type": "image",
+			"name": "scene1_4_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_bluefire1.png",
+			"type": "image",
+			"name": "scene1_bluefire1_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_bluefire2.png",
+			"type": "image",
+			"name": "scene1_bluefire2_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_bluefire3.png",
+			"type": "image",
+			"name": "scene1_bluefire3_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_fire1.png",
+			"type": "image",
+			"name": "scene1_fire1_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_fire2.png",
+			"type": "image",
+			"name": "scene1_fire2_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_firestar.png",
+			"type": "image",
+			"name": "scene1_firestar_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_firelight2.png",
+			"type": "image",
+			"name": "scene1_firelight2_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_firelight1.png",
+			"type": "image",
+			"name": "scene1_firelight1_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_fish1.png",
+			"type": "image",
+			"name": "scene1_fish1_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_fish2.png",
+			"type": "image",
+			"name": "scene1_fish2_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_fish3.png",
+			"type": "image",
+			"name": "scene1_fish3_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_bluefireshadow.png",
+			"type": "image",
+			"name": "scene1_bluefireshadow_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_firestar.json",
+			"type": "json",
+			"name": "scene1_firestar_json"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_firestar2.json",
+			"type": "json",
+			"name": "scene1_firestar2_json"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_meteor.png",
+			"type": "image",
+			"name": "scene1_meteor_png"
+		},
+		{
+			"url": "assets/scene/scene1/scene1_meteor.json",
+			"type": "json",
+			"name": "scene1_meteor_json"
+		},
+		{
+			"url": "assets/shop/shopcon.png",
+			"type": "image",
+			"name": "shopcon_png"
+		},
+		{
+			"url": "assets/robots/robot2.png",
+			"type": "image",
+			"name": "robot2_png"
+		},
+		{
+			"url": "assets/robots/robot3.png",
+			"type": "image",
+			"name": "robot3_png"
+		},
+		{
+			"url": "assets/robots/robot5.png",
+			"type": "image",
+			"name": "robot5_png"
+		},
+		{
+			"url": "assets/robots/robot6.png",
+			"type": "image",
+			"name": "robot6_png"
+		},
+		{
+			"url": "assets/robots/robot7.png",
+			"type": "image",
+			"name": "robot7_png"
+		},
+		{
+			"url": "assets/robots/robot8.png",
+			"type": "image",
+			"name": "robot8_png"
+		},
+		{
+			"url": "assets/robots/robot9.png",
+			"type": "image",
+			"name": "robot9_png"
+		},
+		{
+			"url": "assets/robots/robot4.png",
+			"type": "image",
+			"name": "robot4_png"
+		},
+		{
+			"url": "assets/close.png",
+			"type": "image",
+			"name": "close_png"
+		},
+		{
+			"url": "assets/playpage/choose_0.png",
+			"type": "image",
+			"name": "choose_0_png"
+		},
+		{
+			"name": "choose_1_png",
+			"type": "image",
+			"url": "assets/playpage/choose_1.png"
+		},
+		{
+			"name": "shopchoosebg_png",
+			"type": "image",
+			"url": "assets/shop/shopchoosebg.png"
+		},
+		{
+			"name": "冰魄玉_png",
+			"type": "image",
+			"url": "assets/mateiral/冰魄玉.png"
+		},
+		{
+			"name": "钢木_png",
+			"type": "image",
+			"url": "assets/mateiral/钢木.png"
+		},
+		{
+			"name": "庚金_png",
+			"type": "image",
+			"url": "assets/mateiral/庚金.png"
+		},
+		{
+			"name": "scene3_png",
+			"type": "image",
+			"url": "assets/playpage/scene3.png"
+		},
+		{
+			"name": "scene22_png",
+			"type": "image",
+			"url": "assets/scene/scene2/scene2.png"
+		},
+		{
+			"name": "sockt_png",
+			"type": "image",
+			"url": "assets/sockt.png"
+		},
+		{
+			"name": "back2_png",
+			"type": "image",
+			"url": "assets/home/back.png"
+		}
+	]
+}

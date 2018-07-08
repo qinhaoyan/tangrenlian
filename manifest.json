@@ -1,0 +1,40 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/particle/particle.js"
+	],
+	"game": [
+		"bin-debug/Game/HomePage.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Tools.js",
+		"bin-debug/Game/AddExplore.js",
+		"bin-debug/Game/AddRank.js",
+		"bin-debug/Game/AddShop.js",
+		"bin-debug/Game/AddShopChoose.js",
+		"bin-debug/Game/AddSmelter.js",
+		"bin-debug/Game/AddWareHouse.js",
+		"bin-debug/Game/Game.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Game/PlayRobot.js",
+		"bin-debug/Game/StartUpPage.js",
+		"bin-debug/Game/Franck/AddSmelterFranck.js",
+		"bin-debug/Game/Franck/MineAndShop.js",
+		"bin-debug/Game/Franck/RankRow.js",
+		"bin-debug/Game/Franck/Scene.js",
+		"bin-debug/Game/Franck/ShopSaleChoose.js",
+		"bin-debug/Game/Franck/Success.js",
+		"bin-debug/Game/Franck/WareHouseCell.js",
+		"bin-debug/Game/SceneBg/Scenes.js",
+		"bin-debug/Game/SceneBg/SceneTotal.js",
+		"bin-debug/Game/SceneBg/Scene1/SceneBg_1.js",
+		"bin-debug/Game/SceneBg/Scene1/SceneBg_2.js"
+	]
+}
